@@ -1,11 +1,11 @@
 # Funnier Eval Meme
 
-Previous one broke, pushed users to telescan.
+Previous one broke, pushed users to telescan. Update to https://github.com/Crump3tte/Funny-Eval-Meme
 
-Launch Arbor.
-Launch services.msc as admin and stop the arborserver service.
-Replace java file in your arbor install folder, mine is in C:\MindShare\Arbor\java.
-Head back to services.msc open from before and start the arborserver service.
-Navigate back to Arbor from earlier and click Help -> Activate Arbor.
-Choose activate with dongle.
-Profit??
+1. Launch Arbor.
+2. Launch services.msc as admin and stop the arborserver service.
+3. Replace java file in your arbor install folder, mine is in C:\MindShare\Arbor\java.
+4. Head back to services.msc open from before and start the arborserver service.
+5. Navigate back to Arbor from earlier and click Help -> Activate Arbor.
+6. Choose activate with dongle.
+7. Profit??
